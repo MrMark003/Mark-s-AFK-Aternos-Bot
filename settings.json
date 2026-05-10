@@ -31,6 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
+        "Hello!!",
         "I'm a regular player",
         "I like to play Minecraft!"
       ]
